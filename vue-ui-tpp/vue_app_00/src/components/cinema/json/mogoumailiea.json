@@ -1,0 +1,326 @@
+{
+    "data":[
+      {
+        "id":1,
+        "yctitle": "UME影城（成都成华店）",
+        "ycdizhi":"成华区建设北路3段6号龙湖三千集购物中心5楼",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"19:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"37.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"20:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"39.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"21:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"41.4"
+                            }]
+        }],
+            "ycnowjiage":41.4,
+        "lid":1
+       },
+       {
+        "id":2,
+        "yctitle": "太平洋影城（王府井店）",
+        "ycdizhi":"锦江区钟阜路15号王府井百货",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"18:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"39.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"19:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"42.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"20:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"39.4"
+                            }]
+        }],
+            "ycnowjiage":39.4,
+        "lid":1
+       },
+       {
+        "id":3,
+        "yctitle": "新远国际影城（西湖文化广场店）",
+        "ycdizhi":"中山北路581号朝晖路口西湖文化广场C区8号（中山北路，朝晖路口）",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"19:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"27.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"20:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"47.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"21:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"57.4"
+                            }]
+        }],
+            "ycnowjiage":57.4,
+        "lid":1
+       },
+       {
+        "id":4,
+        "yctitle": "中影国际影城（西溪印象城店）",
+        "ycdizhi":"五常大道一号西溪印象城3楼（西溪湿地洪园）",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"21:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"19.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"22:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"29.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"23:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"25.4"
+                            }]
+        }],
+            "ycnowjiage":25.4,
+        "lid":1
+       },
+       {
+        "id":5,
+        "yctitle": "中影国际影城（杭州永旺店）",
+        "ycdizhi":"地址：良渚街道古墩路1888号T301",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"18:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"39.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"19:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"44.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"20:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"57.4"
+                            }]
+        }],
+            "ycnowjiage":57.4,
+        "lid":1
+       },
+       {
+        "id":6,
+        "yctitle": "UME影城（成都成华店）",
+        "ycdizhi":"成华区建设北路3段6号龙湖三千集购物中心5楼",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"19:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"37.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"20:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"39.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"21:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"41.4"
+                            }]
+        }],
+            "ycnowjiage":41.4,
+        "lid":1
+       },
+       {
+        "id":7,
+        "yctitle": "太平洋影城（王府井店）",
+        "ycdizhi":"锦江区钟阜路15号王府井百货",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"18:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"39.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"19:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"42.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"20:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"39.4"
+                            }]
+        }],
+            "ycnowjiage":39.4,
+        "lid":1
+       },
+       {
+        "id":8,
+        "yctitle": "新远国际影城（西湖文化广场店）",
+        "ycdizhi":"中山北路581号朝晖路口西湖文化广场C区8号（中山北路，朝晖路口）",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"19:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"27.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"20:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"47.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"21:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"57.4"
+                            }]
+        }],
+            "ycnowjiage":57.4,
+        "lid":1
+       },
+       {
+        "id":9,
+        "yctitle": "中影国际影城（西溪印象城店）",
+        "ycdizhi":"五常大道一号西溪印象城3楼（西溪湿地洪园）",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"21:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"19.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"22:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"29.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"23:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"25.4"
+                            }]
+        }],
+            "ycnowjiage":25.4,
+        "lid":1
+       },
+       {
+        "id":10,
+        "yctitle": "中影国际影城（杭州永旺店）",
+        "ycdizhi":"地址：良渚街道古墩路1888号T301",
+        "peizhi":[{
+          "yctuipiao":"退票",
+          "ycgaiqian":"改签",
+          "yclingshi":"零食",
+          "ycyingting":"IMAX厅",
+          "yctingche":"可停车"
+          }],
+        "ycyouhui":"扫毒2天地对决特惠",
+        "biaoqianmax":[{
+          "biaoqian1":[{
+            "ycsjduan":"18:00",
+            "ycyuyan":"国语 2D",
+            "ycjiage":"39.4"
+                }],
+                "biaoqian2":[{
+                  "ycsjduan":"19:00",
+                  "ycyuyan":"国语 2D",
+                  "ycjiage":"44.4"
+                      }],
+                      "biaoqian3":[{
+                        "ycsjduan":"20:00",
+                        "ycyuyan":"国语 2D",
+                        "ycjiage":"57.4"
+                            }]
+        }],
+            "ycnowjiage":57.4,
+        "lid":1
+       }
+     
+    ]
+}
+  
